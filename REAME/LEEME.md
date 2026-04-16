@@ -9,3 +9,4 @@ Bienvenido a Unblocked Games, un espacio creado con la idea de que los videojueg
 Este proyecto comenzó con una visión sencilla: crear un espacio donde la gente pueda jugar, explorar y disfrutar de los juegos libremente, sin importar dónde se encuentren. Con cada actualización, nuestro objetivo es crecer, mejorar y ofrecer nuevas experiencias a nuestra comunidad.
 
 Esperamos que esta plataforma se convierta en un lugar donde puedas relajarte, divertirte y encontrar algo nuevo cada vez que la visites. Esto es solo el principio, y estamos encantados de que formes parte de este viaje.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
